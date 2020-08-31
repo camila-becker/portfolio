@@ -65,7 +65,7 @@ ul li a {
     }
 }
 
-@media(max-width: 500px){
+@media(max-width: 600px){
     .text{
         font-size:1.8em;
         margin: 0;
